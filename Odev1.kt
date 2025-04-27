@@ -2,18 +2,18 @@ package com.example.kotlinderslerim.degiskenler
 
 fun main() {
     val sehir = "İstanbul"
-    var ulke = "Turkey"
-    var telefon = "5443391789"
-    var postaKodu = "66900"
-    var email = "yasemindemir.dev@gmail.com"
-    var meslek = "Computer Engineering Student"
+    var ulke = "Türkiye"
+    var telefon = "5443561429"
+    var postaKodu = "459000"
+    var email = "elonmusk@gmail.com"
+    var meslek = "Öğrenci"
     var stokMiktarı = 6000
-    var musteriAdi = "Aleyna Cebeci"
+    var musteriAdi = "Canan Gül"
     var bakiye = 80000.50
-    var birthday = "20.01.2002"
+    var birthday = "30.08.1958"
     var maas = 70000
     var medeniDurum = "Bekar"
-    var urunYorum = "Ürün kullanışlı"
+    var urunYorum = "Ürün kaliteli"
 
     //PRINT PARTS
     println("Şehir: $sehir ")
@@ -68,7 +68,7 @@ fun main() {
     val dosyaFormati = "PDF"
     val renk = "Kahverengi"
     val renkKodu = "#FF0000"
-    val telefonModeli = "Galaxy A12"
+    val telefonModeli = "Galaxy A5"
     val ekranBoyutu = 6.7
     val agirlik = 180
 
@@ -110,13 +110,12 @@ fun main() {
     println("Kupon Kodu: $kuponKodu")
     println("Fatura Adresi: $faturaAdresi")
 
-    //örnek kısımlar kendimi sakinleştirmek  için ideal diye düşünüyorum
 
-    var yas = 23
-    var isim = "yasemin"
-    var soyad = "demir"
-    val sehira = "yozgat"
-    var bolum = "bilgisayar mühendisliği"
+    var yas = 45
+    var isim = "Leyla"
+    var soyad = "Mecnun"
+    val sehira = "Los Angeles"
+    var bolum = "Bilgisayar mühendisliği"
 
     println("Kişinin yaşı: $yas ")
 }
